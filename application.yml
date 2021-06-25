@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    active: dev
+swagger:
+  production: false
+  basic:
+    enable: false
+    username: jeecg
+    password: jeecg1314
+# 第三方登录
+jasypt:
+  encryptor:
+    password: zsxc
