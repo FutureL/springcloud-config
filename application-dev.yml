@@ -1,4 +1,2 @@
-server:
-  port: 8888
 config:
   info: "version=3"
